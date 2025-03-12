@@ -1,0 +1,6 @@
+{
+    "BOT_TOKEN": "7590305277:AAEF_Ol6DvAqK2LJyByEsQe4DWEfNq6jduo",
+    "DEEPSEEK_API_KEY": "sk-f38b0b188d624d4d931f72666153cf0d",
+    "MONGO_URI": "mongodb://localhost/",
+    "DB_NAME": "cooper_db"
+  }
